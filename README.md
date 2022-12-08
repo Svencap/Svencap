@@ -9,6 +9,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Rss-front)](https://github.com/Svencap/Rss-front)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Difference-Calculator)](https://github.com/Svencap/Difference-Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Brain-Games)](https://github.com/Svencap/Brain-games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
 
 ## Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Svencap&theme=blue-green)
