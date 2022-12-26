@@ -12,6 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
 
 ## Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Svencap&theme=blue-green)
