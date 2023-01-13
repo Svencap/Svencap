@@ -6,20 +6,17 @@
 
 ## Demo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Chat)](https://github.com/Svencap/Chat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Rss-front)](https://github.com/Svencap/Rss-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Difference-Calculator)](https://github.com/Svencap/Difference-Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Brain-Games)](https://github.com/Svencap/Brain-games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Rss-front)](https://github.com/Svencap/Rss-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Difference-Calculator)](https://github.com/Svencap/Difference-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Brain-Games)](https://github.com/Svencap/Brain-games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
 
 ## Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Svencap&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=svencap&theme=blue-green)
 ## Where ur find me
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yaeboshu) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Svencap)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
