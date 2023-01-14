@@ -14,10 +14,10 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
 
 ## Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=svencap&theme=blue-green)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svencap&theme=blue-green)
 ## Where ur find me
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yaeboshu) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Svencap)
 
