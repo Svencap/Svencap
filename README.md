@@ -17,7 +17,7 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
 
 ## Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Svencap&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Svencap&show_icons=true&theme=radical)
 ## Where ur find me
 [![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/yaeboshu) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Svencap)
 
