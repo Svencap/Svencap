@@ -9,11 +9,11 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Chat)](https://github.com/Svencap/Chat)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Rss-front)](https://github.com/Svencap/Rss-front)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Difference-Calculator)](https://github.com/Svencap/Difference-Calculator)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repoBrain-Games)](https://github.com/Svencap/Brain-games)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repoTodo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Brain-Games)](https://github.com/Svencap/Brain-games)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Todo-List_firebase)](https://github.com/Svencap/Todo-List_firebase)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Todo-redux-saga)](https://github.com/Svencap/Todo-redux-saga)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Testovoe-Timer)](https://github.com/Svencap/Testovoe-Timer)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=editer-ts)](https://github.com/Svencap/editer-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svencap&repo=Users-TS)](https://github.com/Svencap/Users-TS)
 
 ## Github Stats
