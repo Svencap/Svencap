@@ -6,7 +6,8 @@
 
 
 ## Demo
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Chat)](https://github.com/Svencap/Chat)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Chat-ts)](https://github.com/Svencap/Chat-ts)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=finance_dashboard)](https://github.com/Svencap/finance_dashboard)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Rss-front)](https://github.com/Svencap/Rss-front)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Difference-Calculator)](https://github.com/Svencap/Difference-Calculator)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Svencap&repo=Brain-Games)](https://github.com/Svencap/Brain-games)
